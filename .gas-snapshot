@@ -1,0 +1,5 @@
+MockERC20Test:testERC20_DeployerRoleAccess() (gas: 65078)
+MockERC20Test:test_Deployer_Mint_Functionality() (gas: 59556)
+MockERC20Test:test_Getter() (gas: 18253)
+MockERC20Test:test_MultipleUsers_Mint_Functionality() (gas: 199099)
+MockERC20Test:test_setLimit_revertIfReachLimit() (gas: 15928)

@@ -1,4 +1,4 @@
-# Web3-Security-Dev-Batch-1-HW W2
+# contracts-safety-study
 
 ## Vulnerability Analysis
 
@@ -166,4 +166,3 @@ ERC-20 and ERC-1155, on the other hand, do not have this restriction by default,
 ##### Q: What doest the assembly block actually do?
 
 Solidity Assembly allowing developers to write lower-level code directly
-# contracts-safety-study
